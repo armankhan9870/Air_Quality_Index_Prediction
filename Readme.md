@@ -15,8 +15,4 @@ Applied the Facebook Prophet algorithm for time-series forecasting.
 
 Forecasted future trends for multiple attributes, including relative humidity.
 
-Developed the project individually, from data preparation to final visualization.
-
-📈 The attached video shows how the model predicts upcoming air quality patterns.
-
 This project gave me a deeper understanding of data preprocessing, forecasting, and the use of AI in solving environmental challenges .
